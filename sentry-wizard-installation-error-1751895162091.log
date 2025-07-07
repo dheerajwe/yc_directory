@@ -1,0 +1,17 @@
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: @sanity/visual-editing@2.15.0
+npm WARN Found: @sanity/client@6.29.1
+npm WARN node_modules/@sanity/visual-editing/node_modules/@sanity/client
+npm WARN   @sanity/client@"^6.22.4" from @sanity/mutate@0.11.0-canary.4
+npm WARN   node_modules/@sanity/visual-editing/node_modules/@sanity/mutate
+npm WARN     @sanity/mutate@"0.11.0-canary.4" from @sanity/visual-editing@2.15.0
+npm WARN     node_modules/@sanity/visual-editing
+npm WARN 
+npm WARN Could not resolve dependency:
+npm WARN peerOptional @sanity/client@"^7.1.0" from @sanity/visual-editing@2.15.0
+npm WARN node_modules/@sanity/visual-editing
+npm WARN   @sanity/visual-editing@"^2.14.0" from next-sanity@9.12.0
+npm WARN   node_modules/next-sanity
+npm ERR! Unable to resolve reference $react
+
+npm ERR! A complete log of this run can be found in: C:\Users\HP\AppData\Local\npm-cache\_logs\2025-07-07T13_32_38_035Z-debug-0.log
